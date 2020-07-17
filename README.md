@@ -5,7 +5,7 @@ I'm M.tech Student at [MIT WPU](https://mitwpu.edu.in/) Pune, who has keen inter
 Android Developer || Data Science enthusiast
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
+<img align="right" alt="GIF" src="https://github.com/abhijeetpujara/Images/blob/master/boyswithlP.gif" />
   
 **Talking about Personal Stuffs:**
 
