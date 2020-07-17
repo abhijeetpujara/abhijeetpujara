@@ -1,5 +1,8 @@
-# Hello World!!&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Hi.gif" width="30px"> I'm Abhijeet Pujara&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Developer.gif" width="50px">
+<h1 align="center">Hi 👋, I'm Abhijeet Pujara <img src="https://github.com/abhijeetpujara/Images/blob/master/Hi.gif" width="30px"></h1>
+<h3 align="center">I BUILD Human Networks! (Not Computer Networks; they suck :p)</h3>
+<!--# Hello World!!&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Hi.gif" width="30px"> I'm Abhijeet Pujara&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Developer.gif" width="50px">
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=abhijeetpujara alt=abhijeetpujara/> </p>
 I'm M.tech Student at [MIT WPU](https://mitwpu.edu.in/) Pune, who has keen interest in technologies💻 and development<img src="https://github.com/abhijeetpujara/Images/blob/master/Rocket.gif" width="15px">.
 <br/>
 Android Developer || Data Science enthusiast
