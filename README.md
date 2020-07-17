@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Pujara <img src="https://github.com/abhijeetpujara/Images/blob/master/Hi.gif" width="30px"></h1>
+<h1 align="center">Hello World<img src="https://github.com/abhijeetpujara/Images/blob/master/Hi.gif" width="30px"> I'm Abhijeet Pujara </h1>
 <h3 align="center">I BUILD Human Networks! (Not Computer Networks; they suck :p)</h3>
 <!--# Hello World!!&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Hi.gif" width="30px"> I'm Abhijeet Pujara&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Developer.gif" width="50px">
 
