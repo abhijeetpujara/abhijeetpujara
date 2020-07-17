@@ -7,6 +7,8 @@ Android Developer|| Data science Enthusiast
 
 <img align="right" alt="GIF" src="https://github.com/abhijeetpujara/Images/blob/master/boyswithlP.gif" />
   
+  <p align="left"> <img src=https://komarev.com/ghpvc/?username=abhijeetpujara alt=abhijeetpujara/> </p>
+  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a writer at [Analytics Vidhya](https://medium.com/analytics-vidhya) medium platform
