@@ -1,13 +1,11 @@
-<h1 align="center">Hey<img src="https://github.com/abhijeetpujara/Images/blob/master/Hi.gif" width="30px">I'm Abhijeet Pujara </h1><img src="https://github.com/abhijeetpujara/Images/blob/master/Developer.gif" width="50px">
-<h3 align="center">I BUILD Human Networks! (Not Computer Networks; they suck :p)</h3>
+# Hey&nbsp;<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Hi.gif" width="30px"> I'm Akash Kumar&nbsp;<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Developer.gif" width="50px">
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=abhijeetpujara alt=abhijeetpujara/> </p>
-I'm M.tech Student at [MIT WPU](https://mitwpu.edu.in/) Pune, who has keen interest in technologies💻 and development<img src="https://github.com/abhijeetpujara/Images/blob/master/Rocket.gif" width="15px">.
+I am a 3rd year undergraduate from [IEM](https://iem.edu.in/) kolkata, who has keen interest in technologies💻 and development<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Rocket.gif" width="15px">.
 <br/>
-Android Developer || Data Science enthusiast
+Full Stack Developer(in progress) || Ml Enthusiast
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/abhijeetpujara/Images/blob/master/boyswithlP.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
