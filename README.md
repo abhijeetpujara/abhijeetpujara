@@ -1,11 +1,11 @@
-# Hey&nbsp;<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Hi.gif" width="30px"> I'm Akash Kumar&nbsp;<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Developer.gif" width="50px">
+# Hey&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Hi.gif" width="30px"> I'm Abhijeet Pujara&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Developer.gif" width="50px">
 
-I am a 3rd year undergraduate from [IEM](https://iem.edu.in/) kolkata, who has keen interest in technologies💻 and development<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Rocket.gif" width="15px">.
+I'm M.tech Student at [MIT WPU](https://mitwpu.edu.in/) Pune, who has keen interest in technologies💻 and development<img src="https://github.com/abhijeetpujara/Images/blob/master/Rocket.gif" width="15px">.
 <br/>
-Full Stack Developer(in progress) || Ml Enthusiast
+Android Developer|| Data science Enthusiast
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
+<img align="right" alt="GIF" src="https://github.com/abhijeetpujara/Images/blob/master/boyswithlP.gif" />
   
 **Talking about Personal Stuffs:**
 
