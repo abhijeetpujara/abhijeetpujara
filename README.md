@@ -41,4 +41,5 @@ Happy Coding :)
 <a href="https://www.instagram.com/abhijeet_pujara/">
 <img align="left" alt="Abhijeet's | Instagram" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/Instagram.svg" />
 </a>
+<br/>
 Made with ❤️ by [Abhijeet Pujara](https://abhijeetpujara.github.io/)
