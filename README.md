@@ -1,4 +1,4 @@
-# Hey&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Hi.gif" width="30px"> I'm Abhijeet Pujara&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Developer.gif" width="50px">
+<h1 align="center"> Hey&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Hi.gif" width="30px"> I'm Abhijeet Pujara&nbsp;<img src="https://github.com/abhijeetpujara/Images/blob/master/Developer.gif" width="50px"></h1>
 
 I'm M.tech Student at [MIT WPU](https://mitwpu.edu.in/) Pune, who has keen interest in technologies💻 and development<img src="https://github.com/abhijeetpujara/Images/blob/master/Rocket.gif" width="15px">.
 <br/>
