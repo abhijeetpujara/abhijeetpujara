@@ -46,4 +46,6 @@ Happy Coding :)
 <img align="left" alt="Abhijeet's | FAcebook" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/facebook-.png"/>
 <a href="https://www.kaggle.com/abhijeetp">
 <img align="left" alt="Abhijeet's | Kaggle" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/kaggle-icon.svg"/>
+<a href="https://dev.to/abhijeetpujara">
+<img align="left" alt="Abhijeet's | dev" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/dev-dot-to.svg"/>
 </a>
