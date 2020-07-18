@@ -43,7 +43,7 @@ Happy Coding :)
 <a href="https://www.instagram.com/abhijeet_pujara/">
 <img align="left" alt="Abhijeet's | Instagram" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/Instagram.svg" />
 <a href="https://www.facebook.com/abhi.jeetppujara/">
-<img align="left" alt="Abhijeet's | FAcebook" width="22px" src="  https://github.com/abhijeetpujara/Images/blob/master/facebook-.png"/>
+<img align="left" alt="Abhijeet's | FAcebook" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/facebook-.png"/>
 <a href="https://www.kaggle.com/abhijeetp">
-<img align="left" alt="Abhijeet's | Kaggle" width="22px" src="  https://github.com/abhijeetpujara/Images/blob/master/kaggle-icon.svg"/>
+<img align="left" alt="Abhijeet's | Kaggle" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/kaggle-icon.svg"/>
 </a>
