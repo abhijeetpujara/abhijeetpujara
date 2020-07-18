@@ -26,9 +26,9 @@ You have finally discovered my Github profile!!
 <br/>
 Please feel free to clone projects and raise issues if you think something could be better.
 <br/>
-Happy Learning !!!
+**Happy Learning !!!**
 <br/>
-Happy Coding :)
+**Happy Coding :)**
 
 
 <a href="https://medium.com/@abhijeetPujara">
