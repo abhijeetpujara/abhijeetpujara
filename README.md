@@ -12,6 +12,7 @@ Android Developer|| Data science Enthusiast
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a writer at [Analytics Vidhya](https://medium.com/analytics-vidhya) medium platform
+ Made with ❤️ by [AbhijeetPujara] (https://abhijeetpujara.github.io/)
 - 💬 Ask me about anything, I am happy to help
 - 👨🏽‍💼 Actively participate in Competitive Programming competitions
 - 📫 How to reach me: 
@@ -31,6 +32,7 @@ Happy Learning !!!
 Happy Coding :)
 
 
+<p align="center">
 <a href="https://medium.com/@abhijeetPujara">
   <img align="left" alt="Abhijeet Pujara | Medium" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/medium.svg" />
 </a>
@@ -44,4 +46,5 @@ Happy Coding :)
 <img align="left" alt="Abhijeet's | Instagram" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/Instagram.svg" />
 </a>
 <br/>
- &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Made with ❤️ by [Abhijeet](https://abhijeetpujara.github.io/)
+
+</p>
