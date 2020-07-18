@@ -34,18 +34,25 @@ Happy Coding :)
 <a href="https://medium.com/@abhijeetPujara">
   <img align="left" alt="Abhijeet Pujara | Medium" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/medium.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/abhijeet-pujara-150682114/">
   <img align="left" alt="Abhijeet's LinkdeIN" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/Linkedin.svg" />
 </a>
+
+<a href="https://www.kaggle.com/abhijeetp">
+  <img align="left" alt="Abhijeet's | Kaggle" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/kaggle-icon.svg"/>
+
+<a href="https://dev.to/abhijeetpujara">
+  <img align="left" alt="Abhijeet's | dev" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/dev-dot-to.svg"/>
+
 <a href="https://twitter.com/pujara_abhijeet">
   <img align="left" alt="Abhijeet Pujara | Twitter" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/Twitter.svg" />
 </a>
+
 <a href="https://www.instagram.com/abhijeet_pujara/">
 <img align="left" alt="Abhijeet's | Instagram" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/Instagram.svg" />
+
 <a href="https://www.facebook.com/abhi.jeetppujara/">
 <img align="left" alt="Abhijeet's | FAcebook" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/facebook-.png"/>
-<a href="https://www.kaggle.com/abhijeetp">
-<img align="left" alt="Abhijeet's | Kaggle" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/kaggle-icon.svg"/>
-<a href="https://dev.to/abhijeetpujara">
-<img align="left" alt="Abhijeet's | dev" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/dev-dot-to.svg"/>
+
 </a>
