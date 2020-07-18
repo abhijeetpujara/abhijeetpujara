@@ -12,7 +12,7 @@ Android Developer|| Data science Enthusiast
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a writer at [Analytics Vidhya](https://medium.com/analytics-vidhya) medium platform
-- 💬 Ask me about ML & AI I am happy to help
+- 💬 Ask me about ML & AI, I am happy to help
 - 👨🏽‍💼 Actively participate in Competitive Programming competitions
 - 📫 How to reach me: 
 <br/> mail-id: abhijeetpujara@gmail.com
