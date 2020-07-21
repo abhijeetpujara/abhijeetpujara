@@ -12,6 +12,8 @@ Android Developer|| Data science Enthusiast
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a writer at [Analytics Vidhya](https://medium.com/analytics-vidhya) medium platform
+         <br/>and this is my [medium profile](https://medium.com/@abhijeetPujara) if you waht to learn ML Algorithms then must visit this.<br/>
+         it gives you a bacic concepts of Algorithms and python code as well 
 - 💬 Ask me about ML & AI, I am happy to help
 - 👨🏽‍💼 Actively participate in Competitive Programming competitions
 - 📫 How to reach me: 
