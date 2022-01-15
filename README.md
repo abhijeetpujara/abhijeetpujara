@@ -16,8 +16,7 @@ Android Developer|| Data science Enthusiast
          it gives you a bacic concepts of Algorithms and python code as well 
 - 💬 Ask me about ML & AI, I am happy to help
 - 👨🏽‍💼 Actively participate in Competitive Programming competitions
-- 📫 How to reach me: 
-<br/> mail-id: abhijeetpujara@gmail.com
+
 <br/>
 
 ![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeetpujara&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
